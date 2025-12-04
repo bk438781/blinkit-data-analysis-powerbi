@@ -1,2 +1,1 @@
-# blinkit-data-analysis-powerbi
-This Power BI project analyzes Blinkit's order, product, and customer data to uncover actionable insights and trends. It includes data cleaning, relationship modeling, and DAX-powered visualizations. Key metrics visualized include total sales, average sales per order, item count, and customer ratings—presented in an interactive dashboard suitable for business decision-making.
+
